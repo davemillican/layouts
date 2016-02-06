@@ -9,48 +9,46 @@
 }
 
 .red {
-	background:red;
-	height: 50px;
+	background: #ff0000;
+	height: 100px;
 	margin-bottom: 10px;
 }
 
 .middle {
-	background:red;
+	background: #fe5000;
 	float:left;
 	height: 400px;
-	width: 190px;
+	width: 183px;
 }
 .purple {
-	background:purple;
+	background: #8f75be;
 	float:left;
 	height: 400px;
-	width: 190px;
+	width: 183px;
 }
 
 .green {
-	background:green;
+	background: #00c448;
 	float:left;
 	height: 400px;
-	width: 190px;
+	width: 183px;
 
 }
 
 .multi-color {
-	padding: 10px;
+	padding: 24px;
 
 }
 
 .bottom {
-	background: #f6ff00;
+	background: #fa83bb;
 	margin: 0 auto;
-	height: 400px;
-	width: 570px;
-	margin-bottom:10px;
-
+	height: 429px;
+	width: 550px;
 }
 
 .right-col {
-	background: yellow;
+	background: #f6ff00;
 	float: left;
 	height: 900px;
 	width: 300px;
@@ -65,9 +63,9 @@
 }
 
 .footer {
-	background: red;
+	background: #ff0000;
 	margin-top: 10px;
-	height: 50px;
+	height: 100px;
 }
  
 

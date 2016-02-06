@@ -4,36 +4,36 @@
 
 .container {
 	height: 1000px;
-	width: 900px;
+	width: 600px;
 	margin: 0 auto;
 }
 
 .red {
-	background:red;
-	height: 50px;
+	background: #ff0000;
+	height: 100px;
 	margin-bottom: 10px;
 }
 
 .blue {
-	background:blue;
+	background: #00bdf7;
 	float:left;
 	height: 500px;
-	width: 300px;
+	width: 200px;
 }
 
 .green {
-	background:green;
+	background: #00c448;
 	float:left;
 	height: 500px;
-	width: 300px;
+	width: 200px;
 
 }
 
 .yellow {
-	background:yellow;
+	background: #f6ff00;
 	float:left;
 	height: 500px;
-	width: 300px;
+	width: 200px;
 
 }
 
@@ -41,7 +41,7 @@
 .footer {
 	background: red;
 	margin-top: 10px;
-	height: 50px;
+	height: 100px;
 }
  
 
